@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhanubasyan
 - 👀 I’m interested in java programming
 - 🌱 I’m currently learning advanced java programming
-- 💞️ I’m looking to collaborate on advanced projective thinking paertner..
+- 💞️ I’m looking to collaborate on advanced projective thinking partner..
 - 📫 How to reach me ...email BhanuBasyan@gmail.com
 - 😄 Pronouns: ...Bhanu
 - ⚡ Fun fact: ...
