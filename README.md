@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhanubasyan
+- 👋 Hi, I’m @Bhanu
 - 👀 I’m interested in java programming
 - 🌱 I’m currently learning advanced java programming
 - 💞️ I’m looking to collaborate on advanced projective thinking partner..
